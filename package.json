@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-translucent-statusbar",
+  "version": "1.0.0",
+  "description": "Cordova Translucent Statusbar Plugin",
+  "cordova": {
+    "id": "cordova-plugin-translucent-statusbar",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenivana/cordova-plugin-translucent-statusbar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Fengming Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fenivana/cordova-plugin-translucent-statusbar/issues"
+  },
+  "homepage": "https://github.com/fenivana/cordova-plugin-translucent-statusbar#readme"
+}

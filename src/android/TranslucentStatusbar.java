@@ -8,7 +8,6 @@ import org.apache.cordova.PluginResult;
 import android.app.Activity;
 import android.view.WindowManager.LayoutParams;
 import android.view.Window;
-import org.json.JSONObject;
 import org.json.JSONArray;
 import org.json.JSONException;
 
